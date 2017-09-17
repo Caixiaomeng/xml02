@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="gb2312"?>
+<class>
+<classmate category="01">
+<number>201503394</number>
+<name>同学甲</name>
+</classmate>
+<classmate category="02">
+<number>201503410</number>
+<name>同学乙</name>
+<classmate category="03">
+<number>201503410</number>
+<name>同学丙</name>
+<classmate category="04">
+<number>201503410</number>
+<name>同学丁</name>
+<script>
+<![CDATA[
+function matchwo(a,b)
+{
+if (a < b && a < 0) then
+  {
+  return 1;
+  }
+else
+  {
+  return 0;
+  }
+}
+]]>
+</script>
+</classmate>
+</class>
